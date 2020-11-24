@@ -1,0 +1,4 @@
+{
+    "contractPath": "Contracts/WalletSimple.sol:WalletSimple",
+    "tags": [ "multisig" ]
+}
